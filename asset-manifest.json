@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kt-calc/static/css/main.ce2025f0.css",
+    "main.js": "/kt-calc/static/js/main.2ef51a13.js",
+    "static/js/453.7c9c93c8.chunk.js": "/kt-calc/static/js/453.7c9c93c8.chunk.js",
+    "service-worker.js": "/kt-calc/service-worker.js",
+    "index.html": "/kt-calc/index.html",
+    "main.ce2025f0.css.map": "/kt-calc/static/css/main.ce2025f0.css.map",
+    "main.2ef51a13.js.map": "/kt-calc/static/js/main.2ef51a13.js.map",
+    "453.7c9c93c8.chunk.js.map": "/kt-calc/static/js/453.7c9c93c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2025f0.css",
+    "static/js/main.2ef51a13.js"
+  ]
+}
