@@ -12,11 +12,12 @@
 .App__display {
   width: 100%;
   padding: 0;
+  flex: 1;
   overflow: hidden;
 }
 
 .App_keypad {
-  flex: 1;
+  flex: 0 1;
   padding: 0;
 }
 
